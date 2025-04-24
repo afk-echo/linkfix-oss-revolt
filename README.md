@@ -44,7 +44,7 @@ pip install revolt.py
 ````
 2. Activate the environment and run `main.py`:
 ````
-source .venv/scripts/Activate.ps1
+.venv/scripts/Activate.ps1
 $env:TOKEN = "enter your token"
 python main.py
 ````

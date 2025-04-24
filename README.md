@@ -13,7 +13,7 @@ Reddit - via [vxreddit](https://github.com/dylanpdx/vxReddit)
 It is in essence, a simple script that replaces domain names in order to fix links to display media on Revolt.
 
 ## Running
-## Create a bot
+### Create a bot
 Create a Revolt bot on the desktop app by going to `User Settings > My Bots > Create a Bot`. Give it a name and copy the token of the bot. Add this bot to a group/server for it to work in. Replace `"enter your token"` in the following steps with the token of this bot. 
 
 ### Linux

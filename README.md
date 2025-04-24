@@ -50,7 +50,7 @@ python main.py
 ````
 
 ## Issues
-When installing `revolt.py` from `pip`, you may face issues installing `aiohttp` if you are on a newer version of Python (this issue is known to occur on Python 3.13.3 and above). To mitigate this issue, you may choose to clone the [revolt.py](https://github.com/revoltchat/revolt.py/tree/master) repository yourself and install `revolt.py` from source manually. To do this, run the following:
+When installing `revolt.py` using `pip`, you may face issues installing `aiohttp` if you are on a newer version of Python (this issue is known to occur on Python 3.13.3 and above). To mitigate this issue, you may choose to clone the [revolt.py](https://github.com/revoltchat/revolt.py/tree/master) repository yourself and install `revolt.py` from source manually. To do this, run the following:
 
 ````
 git clone https://github.com/revoltchat/revolt.py.git

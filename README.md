@@ -39,7 +39,7 @@ Start a PowerShell session and do the following:
 git clone https://github.com/afk-echo/linkfix-oss-revolt.git
 cd linkfix-oss-revolt
 python -m venv .venv
-source .venv/scripts/Activate.ps1
+.venv/scripts/Activate.ps1
 pip install revolt.py
 ````
 2. Activate the environment and run `main.py`:
